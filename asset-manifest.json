@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/latchdev/static/css/main.5facb584.chunk.css",
+    "main.js": "/latchdev/static/js/main.b8fceca1.chunk.js",
+    "main.js.map": "/latchdev/static/js/main.b8fceca1.chunk.js.map",
+    "runtime-main.js": "/latchdev/static/js/runtime-main.ac45a130.js",
+    "runtime-main.js.map": "/latchdev/static/js/runtime-main.ac45a130.js.map",
+    "static/js/2.c18aff28.chunk.js": "/latchdev/static/js/2.c18aff28.chunk.js",
+    "static/js/2.c18aff28.chunk.js.map": "/latchdev/static/js/2.c18aff28.chunk.js.map",
+    "index.html": "/latchdev/index.html",
+    "precache-manifest.2e270accda9677edcc672f8017e70a39.js": "/latchdev/precache-manifest.2e270accda9677edcc672f8017e70a39.js",
+    "service-worker.js": "/latchdev/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/latchdev/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.c18aff28.chunk.js.LICENSE.txt": "/latchdev/static/js/2.c18aff28.chunk.js.LICENSE.txt",
+    "static/media/ga-logo.png": "/latchdev/static/media/ga-logo.4552b1ef.png",
+    "static/media/geocachr.png": "/latchdev/static/media/geocachr.b6828188.png",
+    "static/media/header-background.jpg": "/latchdev/static/media/header-background.5f0011ca.jpg",
+    "static/media/iss.png": "/latchdev/static/media/iss.e890e8d1.png",
+    "static/media/nbalegends.png": "/latchdev/static/media/nbalegends.aa025528.png",
+    "static/media/pensive.png": "/latchdev/static/media/pensive.27a36356.png",
+    "static/media/profilepic.png": "/latchdev/static/media/profilepic.74a66e59.png",
+    "static/media/snake2.png": "/latchdev/static/media/snake2.20e078d0.png",
+    "static/media/toptwenty.png": "/latchdev/static/media/toptwenty.35b193e0.png",
+    "static/media/ual.png": "/latchdev/static/media/ual.41bb69a3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac45a130.js",
+    "static/js/2.c18aff28.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.b8fceca1.chunk.js"
+  ]
+}
